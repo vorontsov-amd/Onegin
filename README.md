@@ -1,6 +1,6 @@
 # Onegin
 
-Onegin is a C++ program that sorts a text file in both ascending and descending order, while ignoring any non-alphabetic characters. The sorted output is written to a new file. 
+Onegin is a C program that sorts the file line by line alphabetically from the beginning of the line and from the end of the line, while ignoring any non-alphabetic characters. The sorted output is written to a new file. 
 
 ## Usage
 
@@ -14,7 +14,7 @@ To compile the program, navigate to the root directory of the project and run th
 make
 ```
 
-This will create an executable file named `onegin`.
+This will create an executable file named `FileSort`.
 
 ### Running
 
